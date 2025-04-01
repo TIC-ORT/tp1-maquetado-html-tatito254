@@ -1,0 +1,7 @@
+body {
+    .cuadrado {
+        width: 100px; /* El ancho del cuadrado */
+        height: 100px; /* La altura del cuadrado */
+        background-color: blue; /* Color de fondo (puedes cambiarlo a tu gusto) */
+    }
+}
